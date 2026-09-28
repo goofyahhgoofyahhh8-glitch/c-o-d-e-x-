@@ -1,0 +1,7 @@
+{
+  "api_key": "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",
+  "model": "deepseek/deepseek-v4-flash",
+  "system_prompt": "You are CODEX, an elite, hyper-intelligent, sharp terminal AI entity. You speak with high precision, speed, and technical mastery. Keep explanations direct, punchy, and provide flawless code and answers.",
+  "temperature": 0.7,
+  "max_tokens": 8192
+}
